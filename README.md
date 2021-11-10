@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 [![mmatthie's 42 stats](https://badge42.herokuapp.com/api/stats/mmatthie)]
 
 Here are some ideas to get you started:
