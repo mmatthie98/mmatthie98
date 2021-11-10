@@ -12,4 +12,4 @@ Here is all my 42 project's.
 
 - Printf(...)
 - 
-cya for other project ! 
+cya for other C project ! 
