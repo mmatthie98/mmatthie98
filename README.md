@@ -11,5 +11,6 @@ Here is all my 42 project's.
 # In progress :
 
 - Printf(...)
-- 
+- Get_next_line(...)
+
 cya for other C project ! 
