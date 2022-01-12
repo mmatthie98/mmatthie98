@@ -10,7 +10,6 @@ Here is all my 42 project's.
 
 # In progress :
 
-- Printf(...)
 - Get_next_line(...)
-
+- Born to be root
 cya for other C project ! 
