@@ -7,6 +7,7 @@ Here is all my 42 project's.
 # Done :
 
 - Libft (125%)
+- Printf (100%)
 
 # In progress :
 
