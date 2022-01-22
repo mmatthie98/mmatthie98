@@ -8,10 +8,11 @@ Here is all my 42 project's.
 
 - Libft (125%)
 - Printf (100%)
+- get_next_line (125%)
 
 # In progress :
 
-- Get_next_line(...)
 - Born to be root
+- So_long
 
 cya for other C project ! 
