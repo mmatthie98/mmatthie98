@@ -8,7 +8,7 @@ Here is all my 42 project's.
 
 - Libft (125%)
 - Printf (100%)
-- get_next_line (125%)
+- Get_next_line (125%)
 
 # In progress :
 
