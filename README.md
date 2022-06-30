@@ -2,15 +2,24 @@
 
 Here is all my 42 project's:
 
-# Done :
+First circle :
 
-- Libft (125%)
-- Printf (100%)
-- Get_next_line (125%)
-- Born2beroot (100%)
-- So_long (100%)
+- Libft (125%);
+- Printf (100%);
+- Get_next_line (125%);
+- Born2beroot (100%);
+- Exam02 (100%);
+
+Second circle :
+
+- So_long (100%);
+- Push_swap Radix (84%);
+- Pipex Multipipes (115%);
+
+Third circle : 
+
 # In progress :
-- push_swap..
-- pipex..
+- Minishell ..
+- Philosopher ..
 
 cya for other C project ! 
