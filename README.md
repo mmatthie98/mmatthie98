@@ -18,8 +18,9 @@ Second circle :
 
 Third circle : 
 
+- Philosopher (100%);
+
 # In progress :
 - Minishell ..
-- Philosopher ..
 
 cya for other C project ! 
