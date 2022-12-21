@@ -14,18 +14,18 @@ Second circle :
 - So_long (100%);
 - Push_swap Radix (84%);
 - Pipex Multipipes (115%);
-- Exam02 (100%)
+- Exam02 (100%);
 
 Third circle : 
 
 - Philosopher (100%);
 - Minishell (100%);
-- Exam03;
+- Exam03 (100%);
 
 fourth circle :
 
 - Net_practice (100%);
-- Exam04;
+- Exam04 (100%);
 
 
 # In progress :
