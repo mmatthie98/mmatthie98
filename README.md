@@ -20,15 +20,17 @@ Third circle :
 
 - Philosopher (100%);
 - Minishell (100%);
+- Exam03;
 
 fourth circle :
+
+- Net_practice (100%);
+- Exam04;
 
 
 # In progress :
 
-- Exam 03;
-- Netpractice;
 - Cub3D
-- Piscine C++;
+- Modules C++;
 
 cya for other C project ! 
