@@ -26,11 +26,12 @@ fourth circle :
 
 - Net_practice (100%);
 - Exam04 (100%);
+- Cub3D
 
 
 # In progress :
 
-- Cub3D
 - Modules C++;
+- IRC;
 
 cya for other C project ! 
