@@ -12,8 +12,8 @@ First circle :
 Second circle :
 
 - So_long (100%);
-- Push_swap Radix (84%);
-- Pipex Multipipes (115%);
+- Push_swap (84%);
+- Pipex (115%);
 - Exam02 (100%);
 
 Third circle : 
@@ -26,12 +26,17 @@ fourth circle :
 
 - Net_practice (100%);
 - Exam04 (100%);
-- Cub3D
+- Cub3D (100%);
+- Modules cpp 0-4;
+
+Fifth circle :
+- IRC (110%);
 
 
 # In progress :
 
-- Modules C++;
-- IRC;
+- Modules cpp 5-9;
+- Inception;
+- Exam05;
 
 cya for other C project ! 
