@@ -27,7 +27,7 @@ fourth circle :
 - Net_practice (100%);
 - Exam04 (100%);
 - Cub3D (100%);
-- Modules cpp 0-4;
+- Modules cpp 0-4 (100%);
 
 Fifth circle :
 - IRC (110%);
