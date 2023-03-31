@@ -27,7 +27,8 @@ Second circle :
 - Pipex (115%); ✅
 (https://github.com/mmatthie98/42/tree/main/pipex)
 
-- Exam02 (100%); ✅
+- Exam02 (100%); ✅ 
+(https://github.com/mmatthie98/42/tree/main/exam/exam02)
 
 Third circle : 
 
@@ -38,6 +39,7 @@ Third circle :
 (https://github.com/mmatthie98/42/tree/main/minishell)
 
 - Exam03 (100%); ✅
+(https://github.com/mmatthie98/42/tree/main/exam/exam03/printfrecode)
 
 fourth circle :
 
@@ -48,6 +50,7 @@ fourth circle :
 (https://github.com/mmatthie98/42/tree/main/cub3D)
 
 - Exam04 (100%); ✅
+ (https://github.com/mmatthie98/42/tree/main/exam/exam04)
 
 - Modules cpp 0-4 (100%); ✅
 
