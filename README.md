@@ -60,11 +60,13 @@ Fifth circle :
 - IRC (110%); ✅
 (https://github.com/mmatthie98/IRC)
 
+- Exam05 (100%); ✅
+
 
 # In progress :
 
 - Modules cpp 5-9;
 - Inception;
-- Exam05;
+- Ft-Transcendance;
 
 cya for other C project ! 
