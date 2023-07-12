@@ -62,11 +62,16 @@ Fifth circle :
 
 - Exam05 (100%); ✅
 
+- Modules cpp 5-9 (100%);
+  
+- Inception (100%);
 
+Sixth circle :
+
+- Ft_Transcendance (99%);
+  
 # In progress :
 
-- Modules cpp 5-9;
-- Inception;
-- Ft-Transcendance;
+- Exam06 ..
 
 cya for other C project ! 
