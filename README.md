@@ -62,13 +62,13 @@ Fifth circle :
 
 - Exam05 (100%); ✅
 
-- Modules cpp 5-9 (100%);
+- Modules cpp 5-9 (100%); ✅
   
-- Inception (100%);
+- Inception (100%); ✅
 
 Sixth circle :
 
-- Ft_Transcendance (99%);
+- Ft_Transcendance (99%); ✅
   
 # In progress :
 
