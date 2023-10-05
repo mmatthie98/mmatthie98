@@ -60,11 +60,11 @@ Fifth circle :
 - IRC (110%); ✅
 (https://github.com/mmatthie98/IRC)
 
-- Exam05 (100%); (https://github.com/mmatthie98/42/tree/main/Exam/exam05) ✅
+- Exam05 (100%); ✅ (https://github.com/mmatthie98/42/tree/main/Exam/exam05) 
 
-- Modules cpp 5-9 (100%); (https://github.com/mmatthie98/42/tree/main/modules_cpp) ✅
+- Modules cpp 5-9 (100%); ✅ (https://github.com/mmatthie98/42/tree/main/modules_cpp)
   
-- Inception (100%); (https://github.com/mmatthie98/42/tree/main/Inception) ✅
+- Inception (100%); ✅ (https://github.com/mmatthie98/42/tree/main/Inception)
 
 Sixth circle :
 
