@@ -5,7 +5,7 @@ Here is all my 42 project's:
 First circle :
 
 - Libft (125%); ✅
-(https://github.com/mmatthie98/42/tree/main/libft)
+(https://github.com/mmatthie98/42/tree/main/Libft)
 
 - Printf (100%); ✅
 (https://github.com/mmatthie98/42/tree/main/printf)
