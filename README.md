@@ -62,7 +62,7 @@ Fifth circle :
 
 - Exam05 (100%); ✅ (https://github.com/mmatthie98/42/tree/main/Exam/exam05) 
 
-- Modules cpp 5-9 (100%); ✅ (https://github.com/mmatthie98/42/tree/main/Modules_cpp)
+- Modules cpp 5-9 (100%); ✅ (https://github.com/mmatthie98/42/tree/main/Modules_CPP)
   
 - Inception (100%); ✅ (https://github.com/mmatthie98/42/tree/main/Inception)
 
