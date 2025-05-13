@@ -44,7 +44,7 @@ Third circle :
 fourth circle :
 
 - Net_practice (100%); ✅
-(https://github.com/mmatthie98/42/tree/main/Net_practice)
+(https://github.com/mmatthie98/42/tree/main/Net_Practice)
 
 - Cub3D (100%); ✅
 (https://github.com/mmatthie98/42/tree/main/Cub3D)
