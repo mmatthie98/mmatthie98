@@ -8,10 +8,10 @@ First circle :
 (https://github.com/mmatthie98/42/tree/main/Libft)
 
 - Printf (100%); ✅
-(https://github.com/mmatthie98/42/tree/main/printf)
+(https://github.com/mmatthie98/42/tree/main/Printf)
 
 - Get_next_line (125%); ✅
-(https://github.com/mmatthie98/42/tree/main/get_next_line)
+(https://github.com/mmatthie98/42/tree/main/Get_next_line)
 
 - Born2beroot (100%); ✅
 (https://github.com/mmatthie98/42/tree/main/B2BR)
@@ -19,41 +19,41 @@ First circle :
 Second circle :
 
 - So_long (100%); ✅
-(https://github.com/mmatthie98/42/tree/main/so_long)
+(https://github.com/mmatthie98/42/tree/main/So_long)
 
 - Push_swap (84%); ✅
-(https://github.com/mmatthie98/42/tree/main/push_swap%20)
+(https://github.com/mmatthie98/42/tree/main/Push_swap%20)
 
 - Pipex (115%); ✅
-(https://github.com/mmatthie98/42/tree/main/pipex)
+(https://github.com/mmatthie98/42/tree/main/Pipex)
 
 - Exam02 (100%); ✅ 
-(https://github.com/mmatthie98/42/tree/main/exam/exam02)
+(https://github.com/mmatthie98/42/tree/main/Exam/exam02)
 
 Third circle : 
 
 - Philosopher (100%); ✅
-(https://github.com/mmatthie98/42/tree/main/philo)
+(https://github.com/mmatthie98/42/tree/main/Philo)
 
 - Minishell (100%); ✅
-(https://github.com/mmatthie98/42/tree/main/minishell)
+(https://github.com/mmatthie98/42/tree/main/Minishell)
 
 - Exam03 (100%); ✅
-(https://github.com/mmatthie98/42/tree/main/exam/exam03/printfrecode)
+(https://github.com/mmatthie98/42/tree/main/Exam/exam03/printfrecode)
 
 fourth circle :
 
 - Net_practice (100%); ✅
-(https://github.com/mmatthie98/42/tree/main/net_practice)
+(https://github.com/mmatthie98/42/tree/main/Net_practice)
 
 - Cub3D (100%); ✅
-(https://github.com/mmatthie98/42/tree/main/cub3D)
+(https://github.com/mmatthie98/42/tree/main/Cub3D)
 
 - Modules cpp 0-4 (100%); ✅
-(https://github.com/mmatthie98/42/tree/main/modules_cpp)
+(https://github.com/mmatthie98/42/tree/main/Modules_cpp)
 
 - Exam04 (100%); ✅
- (https://github.com/mmatthie98/42/tree/main/exam/exam04)
+ (https://github.com/mmatthie98/42/tree/main/Exam/exam04)
 
 Fifth circle :
 
@@ -62,7 +62,7 @@ Fifth circle :
 
 - Exam05 (100%); ✅ (https://github.com/mmatthie98/42/tree/main/Exam/exam05) 
 
-- Modules cpp 5-9 (100%); ✅ (https://github.com/mmatthie98/42/tree/main/modules_cpp)
+- Modules cpp 5-9 (100%); ✅ (https://github.com/mmatthie98/42/tree/main/Modules_cpp)
   
 - Inception (100%); ✅ (https://github.com/mmatthie98/42/tree/main/Inception)
 
